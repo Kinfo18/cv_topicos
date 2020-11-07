@@ -17,7 +17,10 @@ public class Cv_ejercicio {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        //--------Version 0----------
+        //--------Versión 0----------
+        System.out.println("Version 0");
+
+        //--------Versión 1----------
+        System.out.println("Version 1");
     }
-    
 }
