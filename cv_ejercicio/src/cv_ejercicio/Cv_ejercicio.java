@@ -22,5 +22,8 @@ public class Cv_ejercicio {
 
         //--------Versión 1----------
         System.out.println("Version 1");
+        
+        //--------Versión David Figueredo----------
+        System.out.println("David Figueredo");
     }
 }
